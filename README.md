@@ -33,6 +33,7 @@ A running log of things I'm learning to build strong core software engineering s
 
 |Resource|Progress|
 |---|---|
+|[Udacity: Problem Solving with Advanced Analytics](https://www.udacity.com/course/problem-solving-with-advanced-analytics--ud976)||
 |[Book: Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)| |
 |[Udacity: Intro to Data Structures and Algorithms](https://www.udacity.com/course/technical-interview--ud513)| |
 </details>
